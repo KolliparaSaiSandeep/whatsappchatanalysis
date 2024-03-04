@@ -1,4 +1,4 @@
-﻿# whatsappchatanalysis
+﻿# Whatsapp Chat Analyzer
 
 1)Developed a WhatsApp Chat Analysis project using Streamlit,atplotlib and pandas, offering detailed insights into total messages, media, and links shared.
 
