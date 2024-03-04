@@ -9,5 +9,5 @@
 
 
 
-https://github.com/KolliparaSaiSandeep/whatsappchatanalysis/assets/110285559/838b4717-a2d9-4ebf-af13-f4cf5fcffe10
-
+Drive link for video demo of this project
+https://drive.google.com/uc?id=1-R28soNhC2qM_AoKSkRVA3VxwfOKL4ZM&export=download
